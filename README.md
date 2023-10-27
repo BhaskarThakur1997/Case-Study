@@ -14,6 +14,8 @@ Evaluate the user acquisition journey for IndusInd Bank, identify technical pain
 
 ● Evaluate video KYC (Know Your Customer) and delivery process for user experience and domain understanding
 
+Link : https://eligibility.bankkaro.com/home
+
 # Important Note:
 
 Hands-on experience with the product is a crucial requirement as the subsequent interview rounds will focus on intricate and recruiting clients will evaluate your effort based on that.
